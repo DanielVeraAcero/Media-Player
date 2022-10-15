@@ -1,0 +1,22 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielVeraAcero/Media-Player.git"
+  },
+  "author": "Daniel Vera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielVeraAcero/Media-Player/issues"
+  },
+  "homepage": "https://github.com/DanielVeraAcero/Media-Player#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
